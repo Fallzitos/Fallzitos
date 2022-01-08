@@ -1,6 +1,6 @@
 - 👋 Olá! Eu sou @Fallzitos.
 - 👀 Estou interessado em expandir meu conhecimento.
-- 🌱 Atualmente, estou aprendendo Python 3.
+- 🌱 Atualmente, programo em Python 3.
 - 💞️ Eu quero ser útil para os outros.
 - 📫 Fallzola#4399
 
